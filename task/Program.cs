@@ -9,8 +9,18 @@ void FillingTheArray (string[] array)
         array[i] = Convert.ToString(Console.ReadLine());
     }
     Console.WriteLine("Ваш массив: [" + string.Join(", ", array) + "]");
+    return;
 }
 Console.WriteLine("Задайте размер массива: ");
 int N = Convert.ToInt32(Console.ReadLine());
 string[] array = new string[N];
 FillingTheArray(array);
+string[] newarr = new string[array.Length];
+for (int i = 0; i < array.Length; i++)
+{
+    if(array[i].Length <= 3)
+    {
+        newarr[i] = array[i];
+    }
+}
+Console.WriteLine("Ваш новый массив: ["+ string.Join(" ", newarr) + " ]");

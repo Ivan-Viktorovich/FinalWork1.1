@@ -1,0 +1,16 @@
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.GlobalUsings.g.cs
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Итоговая проверочная работа\task\bin\Debug\net6.0\task.exe
+C:\Итоговая проверочная работа\task\bin\Debug\net6.0\task.deps.json
+C:\Итоговая проверочная работа\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Итоговая проверочная работа\task\bin\Debug\net6.0\task.dll
+C:\Итоговая проверочная работа\task\bin\Debug\net6.0\ref\task.dll
+C:\Итоговая проверочная работа\task\bin\Debug\net6.0\task.pdb
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.dll
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\ref\task.dll
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.pdb
+C:\Итоговая проверочная работа\task\obj\Debug\net6.0\task.genruntimeconfig.cache
